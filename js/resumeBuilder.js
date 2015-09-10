@@ -99,7 +99,7 @@ var projects = {
         "dates" : "2015",
         "description" : "Polish Movie Poster Gallery Website with 120 photographs of original art works from 1955 to 1989",
         "url" : "http://www.polish-movie-poster.de/",
-        "images" : ["images/dziecko_rosemary.svg", "images/zabity_na_smierc.svg", "images/w_mroku_nocy.svg"]
+        "images" : ["images/dziecko_rosemary.jpg", "images/zabity_na_smierc.jpg", "images/w_mroku_nocy.jpg"]
      },
      {
         "title" : "Draft: Responsive Website",

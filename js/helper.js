@@ -131,7 +131,7 @@ function initializeMap() {
       animation: google.maps.Animation.DROP
     });
 
-marker.setMap(map);
+    marker.setMap(map);
 
     // infoWindows are the little helper windows that open when you click
     // or hover over a pin on a map. They usually contain more information

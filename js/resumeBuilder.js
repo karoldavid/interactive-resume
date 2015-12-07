@@ -6,6 +6,14 @@ var bio = {
   "skills": ["Responsive Websites","Mobile Development", "Wordpress", "Python","JavaScript","PHP"]
 };
 
+console.dir(bio);
+
+for (p in bio) {
+	console.log(p);
+}
+
+
+
 var contact = {
   "phone" : "+49 30 301 393 71",
   "email" : "k.zysk@zoho.com",

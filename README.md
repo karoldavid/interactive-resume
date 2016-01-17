@@ -1,22 +1,17 @@
 # Interactive Online Resume
 
-### Here is a link to the live version:
+Link to the live version: http://karoldavid.github.io/interactive-resume/
 
-http://karoldavid.github.io/interactive-resume/
+## Description
 
-This Project is part of the JavaScript Basics Course and the
-Udacity Front-End Web Developer Nanodegree:
+All of the resume's content is generated dynamically with JavaScript. Locations are displayed on a Google Maps map.
 
-https://www.udacity.com/course/ud804
+## FEND Nanodegree
 
+The Interactive Online Resume is part of the Udacity Front-End Webdeveloper Nanodegree
 
-Here is a link to the project description:
+FEND PROGRAM https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
 
-https://github.com/udacity/frontend-nanodegree-resume
+## Questions?
 
-
-The repo is forked from:
-
-https://github.com/udacity/frontend-nanodegree-resume.git
-
-#### You can email me: k.zysk@zoho.com
+Email me at k.zysk@zoho.com
